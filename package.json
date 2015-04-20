@@ -1,0 +1,41 @@
+{
+  "name": "slush-ng-pack",
+  "version": "0.2.1",
+  "description": "Helps you to create and publish your Angular components quickly using Gulp",
+  "keywords": [
+    "slushgenerator",
+    "angular",
+    "ng",
+    "component",
+    "bower",
+    "package",
+    "module"
+  ],
+  "main": "slushfile.js",
+  "dependencies": {
+    "gulp": "~3.8.6",
+    "gulp-conflict": "~0.3.0",
+    "gulp-if": "^1.2.5",
+    "gulp-install": "~0.4.0",
+    "gulp-rename": "~1.2.0",
+    "gulp-template": "~0.1.1",
+    "inquirer": "~0.5.1",
+    "lodash": "^3.2.0"
+  },
+  "homepage": "http://github.com/sytac/ng-pack",
+  "bugs": {
+    "url": "https://github.com/sytac/ng-pack/issues"
+  },
+  "author": "Tamer Aydin (http://tamerayd.in)",
+  "contributors": [
+    {
+      "name": "Tamer Aydin",
+      "url": "http://tamerayd.in"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sytac/ng-pack.git"
+  }
+}
